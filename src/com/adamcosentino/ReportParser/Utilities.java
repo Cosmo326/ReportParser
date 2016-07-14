@@ -20,8 +20,7 @@ public abstract class Utilities {
   }
 
   public enum REPORT_TYPE{
-    CeB("CeB Report","Internet Banking All Activities Report", "\\\\main-pdc\\FileQue\\InternetBanking\\CeB", "Input", "CeBFiche", "Archive","ceb"),
-    BeB("BeB Report","Cash Management All Activities Report", "\\\\main-pdc\\FileQue\\InternetBanking\\BeB", "Input", "BeBFiche", "Archive","beb");
+    // Needs filled in
 
     public final String Listing;
     public final String Heading;
